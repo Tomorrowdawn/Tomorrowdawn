@@ -8,32 +8,38 @@
 
 ## Hi there 👋
 
-<!--
-**Tomorrowdawn/Tomorrowdawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="200" src="https://hips.hearstapps.com/hmg-prod/images/euripides-9289335-1-402.jpg" alt="Euripides">
 
 Torrowdawn, or *Chenxia Tang* here. 
 
-I was born in 2003, and I'm currently a Master student in [USTC-INT](https://int-ustc.github.io/). My main research interest is deep learning, with a particular focus on pre-training and high-speed inference. I agree with Euripides: 'The language of truth is simple'. I believe that good AI must consist of a powerful foundation model combined with sufficiently fast processing speed. 
+I was born in 2003, and I'm currently a Master student in [USTC-INT](https://int-ustc.github.io/). My main research interest is deep learning, with a particular focus on pre-training and high-speed inference. I agree with Euripides: *The language of truth is simple*.
 
-I am highly proficient in **Python** and **C++**, which you can verify from my repositories. Recently, I've been planning to learn a bit of Dart to develop some personal apps.
+My favorite Top-2 English words are *Meditation* and *Philosophy*. I treat meditation as the best medicine for life, and I also deeply love wisdom. 
 
-I have dabbled in **reinforcement learning, recommendation systems, and large language models**. My research on large language models is particularly **in-depth**. For example, I can recite the runtime of almost all operations during the execution of LLaMA.
+### 💻 Skills
 
-My habbits are animation, Go(board game), philosophy and writing. Top-2 English words of mine are *Meditation* and *Philosophy*. I treat meditation as the best medicine for life, and I also deeply love wisdom. 
+I am highly proficient in 
 
-### Education
+- Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+which you can verify from my repos. I also wrote `verilog`, and planning to learn dart to develop some android apps.
+
+---
+
+### 🔬 Research Interests
+
+I have dabbled in
+
+- Reinforcement Learning
+- Recommendation System
+- Large Language Model
+
+My research on large language models is particularly **in-depth**. For example, I can recite the runtime of almost all operations during the execution of LLaMA.
+
+---
+
+### 🎓 Education
 
 - Bachelor's Degree
 
@@ -44,7 +50,7 @@ My habbits are animation, Go(board game), philosophy and writing. Top-2 English 
 - Master's Degree(Now)
 
 <p align="right">
-<em>University of Science and Technology of China (USTC) <br> Schoold of Computer Science and Technology <br> 2023 - </em>
+<em>University of Science and Technology of China (USTC) <br> School of Computer Science and Technology <br> 2023 - </em>
 </p>
 
 ### Projects
