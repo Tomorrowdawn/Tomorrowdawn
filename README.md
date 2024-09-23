@@ -35,7 +35,9 @@ I have dabbled in
 - Recommendation System
 - Large Language Model
 
-My research on large language models is particularly **in-depth**. For example, I can recite the runtime of almost all operations during the execution of LLaMA.
+My research on large language models is particularly **in-depth**. I tried RLHF(GPT-2 scale), finetuning(LLaMA2, 3). I have measured the execution times of almost all operators in LLAMA, and I am quite familiar with the bottlenecks of LLaMA, at least of single-GPU execution on the A6000.
+
+
 
 ---
 
