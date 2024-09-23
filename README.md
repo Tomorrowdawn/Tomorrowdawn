@@ -55,6 +55,8 @@ My research on large language models is particularly **in-depth**. I tried RLHF(
 <em>University of Science and Technology of China (USTC) <br> School of Computer Science and Technology <br> 2023 - </em>
 </p>
 
+I served as a teaching assistant（TA） for *Algebra*，in 2023 fall.
+
 ### Projects
 
 
