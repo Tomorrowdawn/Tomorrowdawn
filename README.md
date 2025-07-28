@@ -94,7 +94,7 @@ I served as a teaching assistant（TA）for *Algebra*，in 2023 fall.
 #### 3. seqattn - Sequence Attention Mechanisms
 **Repository:** [GitHub](https://github.com/Tomorrowdawn/seqattn) | **Language:** Python
 
-**TL;DR:** A high-performance FlashInfer wrapper that simplifies memory management and enables easy implementation of custom sparse attention operations.
+**TL;DR:** A light-weight FlashInfer wrapper that simplifies memory management and enables easy implementation of custom sparse attention operations.
 
 **Key Contributions:**
 - **Memory Management:** Developed a streamlined wrapper around FlashInfer that significantly simplifies memory allocation and deallocation for attention operations
