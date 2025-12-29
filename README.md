@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomorrowdawn&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomorrowdawn)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   
