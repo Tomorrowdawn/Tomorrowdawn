@@ -10,7 +10,7 @@
 
 <img align="right" width="200" src="https://hips.hearstapps.com/hmg-prod/images/euripides-9289335-1-402.jpg" alt="Euripides">
 
-**Torrowdawn**, or *Chenxia Tang* here.
+**Torrowdawn**, or *Chenxia Tang* (唐晨夏) here.
 
 I was born in 2003, and I'm currently a Master student in USTC. My research focuses on post-training and inference optimization for large language models. I agree with Euripides: *The language of truth is simple*.
 
