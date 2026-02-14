@@ -12,7 +12,7 @@
 
 **Torrowdawn**, or *Chenxia Tang* here.
 
-I was born in 2003, and I'm currently a Master student in USTC. My research focuses on post-training and inference optimization for large language models. I agree with Euripides: *The language of truth is simple*.
+I was born in 2003, and I'm currently a Master student in USTC. My research focuses on post-training and inference optimization for large language models. I agree with Euripides: *The language of truth is simple*. I am also the founder and primary maintainer of [yuulabs](https://github.com/yuulabs). I built many useful agent "bricks" there.
 
 My favorite Top-2 English words are *Meditation* and *Philosophy*. I treat meditation as the best medicine for life, and I also deeply love wisdom. 
 
